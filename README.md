@@ -1,2 +1,2 @@
-# cgpang-website
+# Carl Pang
 my personal website
